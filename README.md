@@ -1,80 +1,85 @@
 # 👋 Hi, I'm Aleeza Umer
 
-### 🎓 BSAI Student | 🤖 AI & Machine Learning Enthusiast | 🐍 Python Developer
+### 🤖 BSAI Student | AI & Machine Learning Enthusiast | Python Developer
 
-I am a **Bachelor of Science in Artificial Intelligence (BSAI)** student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
+Welcome to my GitHub profile! 👋
 
-I enjoy transforming ideas into working AI applications and continuously improving my skills through hands-on projects.
+I am a **Bachelor of Science in Artificial Intelligence (BSAI)** student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Python**.
+
+I enjoy turning real-world problems into intelligent applications and continuously improving my skills through hands-on projects, experimentation, and deployment.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Currently pursuing **BSAI**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🧠 Learning and building projects in **Deep Learning**
-* 👁️ Exploring **Computer Vision**
-* 🐍 Developing applications with **Python**
-* 🌐 Building interactive AI applications with **Streamlit**
+* 🎓 BSAI Student
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 🧠 Learning Machine Learning Engineering and Deep Learning
+* 👁️ Interested in Computer Vision & Object Detection
+* 🐍 Python Developer
+* 🌐 Building AI applications with Streamlit
+* ⚙️ Exploring APIs, deployment and production AI
 * 📊 Interested in data-driven problem solving
-* 🚀 Focused on becoming a professional **Machine Learning / AI Engineer**
+* 🚀 Working toward becoming an **AI / Machine Learning Engineer**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
 ### 👩‍💻 Programming
 
 * Python
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 * Machine Learning
 * Deep Learning
 * Computer Vision
 * Object Detection
 * Predictive Modeling
+* Natural Language Processing
 * Model Evaluation
 
 ### 🧰 Frameworks & Libraries
 
-* PyTorch
 * TensorFlow
+* PyTorch
 * Scikit-learn
 * Ultralytics YOLO
 * OpenCV
-* NumPy
 * Pandas
+* NumPy
 * Pillow
 
 ### 🌐 Development & Deployment
 
 * Streamlit
 * FastAPI
+* REST APIs
 * Git
 * GitHub
 * Docker
-* REST APIs
+* Railway
 
 ---
 
 # ⭐ Featured Projects
 
-## 🛣️ AI-Based Smart Road Damage Detection
+## 🛣️ Road Damage Detection System
 
-An AI-powered computer vision application that detects road damage from uploaded images using a trained **YOLO object detection model**.
+An AI-powered **Computer Vision application** that detects different types of road damage from images using a trained **YOLO object detection model**.
 
-### 🔍 Key Features
+### ✨ Features
 
-* Detects road damage from images
-* Provides **damage type**
-* Displays **confidence score**
-* Estimates **severity level**
-* Provides **maintenance recommendations**
-* Displays detection bounding boxes
-* Interactive **Streamlit web interface**
+* 📷 Upload road images
+* 🔍 Detect road damage automatically
+* 🎯 Display bounding boxes
+* 📊 Show confidence scores
+* ⚠️ Estimate damage severity
+* 🛠️ Provide maintenance recommendations
+* 🌐 Interactive Streamlit interface
 
-### 🧠 Supported Damage Classes
+### 🧠 Damage Classes
 
 | Class | Damage Type        |
 | ----- | ------------------ |
@@ -84,90 +89,119 @@ An AI-powered computer vision application that detects road damage from uploaded
 | D40   | Pothole            |
 | D43   | Repair             |
 
-### ⚙️ Workflow
+### 🔧 Technologies
 
-```text
-Road Image
-    ↓
-Image Upload
-    ↓
-Image Preprocessing
-    ↓
-YOLO Object Detection
-    ↓
-Damage Detection
-    ↓
-Confidence Score
-    ↓
-Severity Assessment
-    ↓
-Maintenance Recommendation
-    ↓
-Results Display
-```
+`Python` `YOLO` `Ultralytics` `OpenCV` `Streamlit` `NumPy` `Pillow`
 
-### 🛠️ Technologies
+🔗 **Repository:**
+https://github.com/AleezaUmer/Road-Damage-Detection
 
-`Python` `Ultralytics YOLO` `Streamlit` `OpenCV` `NumPy` `Pillow`
-
-### 🔗 Repository
-
-[View Road Damage Detection Project](https://github.com/aleezaumer46/Road-Damage-Detection)
+🌐 **Live Demo:**
+https://road-damage-detection-production-84ce.up.railway.app/
 
 ---
 
 ## 📊 Customer Churn Prediction
 
-A Machine Learning project focused on predicting whether a customer is likely to **leave a service** based on customer-related data.
+A Machine Learning project that predicts whether a customer is likely to **leave a service** based on customer-related information.
 
-### 🎯 Project Objective
+### ✨ Project Highlights
 
-The goal of customer churn prediction is to use historical customer data and machine learning techniques to identify customers who may be at risk of leaving.
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature preparation
+* Machine Learning model training
+* Model evaluation
+* Customer churn prediction
+* Data-driven business insights
 
-This type of predictive system can help businesses:
-
-* Identify high-risk customers
-* Understand customer behavior
-* Support data-driven decision making
-* Improve customer retention strategies
-* Reduce potential customer loss
-
-### 🔄 Machine Learning Workflow
-
-```text
-Customer Dataset
-      ↓
-Data Preprocessing
-      ↓
-Exploratory Data Analysis
-      ↓
-Feature Preparation
-      ↓
-Machine Learning Model
-      ↓
-Model Evaluation
-      ↓
-Churn Prediction
-```
-
-### 🛠️ Technologies
+### 🔧 Technologies
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
-### 🔗 Repository
-
-[View Customer Churn Prediction Project](https://github.com/aleezaumer46/Customer-Churn-Prediction)
+🔗 **Repository:**
+https://github.com/AleezaUmer/Customer-Churn-Prediction
 
 ---
 
-# 📚 Currently Learning
+## 🎬 Movie Sentiment Analysis
 
-* 🧠 Machine Learning Engineering
+A Deep Learning project that analyzes movie reviews and predicts whether the sentiment is **Positive or Negative**.
+
+The project uses an **LSTM-based neural network** trained on movie review data.
+
+### ✨ Features
+
+* 📝 Text input for movie reviews
+* 🧠 LSTM-based sentiment classification
+* 📊 Positive/Negative prediction
+* 🌐 Interactive Streamlit application
+* 📈 Model evaluation
+
+### 📌 Model Performance
+
+**Accuracy: ~86%**
+
+### 🔧 Technologies
+
+`Python` `TensorFlow` `Keras` `LSTM` `NLP` `Streamlit` `Scikit-learn`
+
+🔗 **GitHub:**
+https://github.com/AleezaUmer/Movie-Sentiment-Analysis-RNN
+
+---
+
+## 🤖 BizAI — AI Assistant for Small Businesses
+
+**BizAI** is an AI-powered business analytics application designed to help small businesses understand their sales, products, customers, inventory, and overall performance.
+
+### ✨ Features
+
+* 💰 Revenue analysis
+* 📈 Sales trend visualization
+* 🔮 Sales forecasting
+* 📦 Inventory monitoring
+* 🛍️ Product performance analysis
+* 🌍 Regional revenue analysis
+* 📊 Business analytics dashboard
+* 🤖 AI-powered business insights
+
+### 🔧 Technologies
+
+`Python` `Pandas` `Scikit-learn` `Groq` `Streamlit` `Machine Learning`
+
+---
+
+## 💳 Loan Risk Prediction
+
+A Machine Learning application designed to analyze loan-related information and predict potential loan risk.
+
+### ✨ Features
+
+* Data preprocessing
+* Feature analysis
+* Risk prediction
+* Machine Learning model
+* Web-based prediction interface
+* Deployment-ready application
+
+### 🔧 Technologies
+
+`Python` `Scikit-learn` `Pandas` `Flask` `Machine Learning`
+
+---
+
+# 🧠 What I'm Currently Learning
+
 * 🤖 Advanced Machine Learning
-* 👁️ Computer Vision
 * 🧬 Deep Learning
+* 👁️ Computer Vision
+* 🗣️ Natural Language Processing
+* ⚙️ Machine Learning Engineering
 * 🌐 AI Model Deployment
-* ⚙️ MLOps & Production AI
+* 🚀 Production AI
+* 📦 MLOps
+* 🔗 APIs & Backend Development
 
 ---
 
@@ -181,31 +215,45 @@ I am interested in opportunities related to:
 * 📊 Data Science
 * 🐍 Python Development
 * ⚙️ Machine Learning Engineering
+* 🧬 Deep Learning
+* 🚀 Generative AI
 
 ---
 
 # 📈 My Goals
 
-My goal is to build **real-world AI solutions** that solve practical problems and continuously grow as an AI/ML professional.
+My long-term goal is to become a professional **AI / Machine Learning Engineer** and build intelligent systems that solve real-world problems.
 
-I am particularly interested in developing intelligent systems that combine:
+I want to continuously improve my ability to combine:
 
-**Data + Machine Learning + Deep Learning + Software Development**
+**Data + Machine Learning + Deep Learning + Software Development + Deployment**
+
+to create reliable and useful AI applications.
+
+---
+
+# 💻 Development Philosophy
+
+> **Learn → Build → Test → Deploy → Improve 🚀**
+
+I believe the best way to learn Artificial Intelligence is by building real projects and solving practical problems.
 
 ---
 
 # 🤝 Let's Connect
 
-If you're interested in **AI, Machine Learning, Computer Vision, or collaborative projects**, feel free to connect with me.
+I'm always interested in connecting with people who are passionate about **AI, Machine Learning, Computer Vision, Data Science, and technology**.
 
-* 💻 GitHub: [@aleezaumer46](https://github.com/aleezaumer46)
-* 🔗 LinkedIn: [Aleeza Umer](https://www.linkedin.com/in/aleeza-umer/)
-* 📧 Email: [umeraleeza358@gmail.com](mailto:umeraleeza358@gmail.com)
+* 💻 **GitHub:** https://github.com/AleezaUmer
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/aleeza-umer/
+* 📧 **Email:** [umeraleeza358@gmail.com](mailto:umeraleeza358@gmail.com)
 
 ---
 
-## ⭐ Thanks for Visiting!
+# ⭐ Thank You for Visiting!
 
-Thanks for visiting my GitHub profile!
+Thanks for stopping by my GitHub profile! 🚀
 
-**Feel free to explore my repositories and follow my journey in Artificial Intelligence & Machine Learning.** 🚀
+Feel free to explore my repositories, check out my projects, and follow my journey as I continue learning and building in **Artificial Intelligence & Machine Learning**.
+
+### 🚀 Keep Learning. Keep Building. Keep Innovating.
