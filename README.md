@@ -209,5 +209,3 @@ If you're interested in **AI, Machine Learning, Computer Vision, or collaborativ
 Thanks for visiting my GitHub profile!
 
 **Feel free to explore my repositories and follow my journey in Artificial Intelligence & Machine Learning.** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=aleezaumer46\&label=Profile%20Views\&color=0e75b6\&style=flat)
