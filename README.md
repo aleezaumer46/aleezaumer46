@@ -44,18 +44,6 @@ Tech: Python · YOLO (Ultralytics) · OpenCV · Streamlit · NumPy · Pillow �
 
 ML project predicting customer churn using data preprocessing, EDA, feature engineering, and model evaluation to generate data-driven business insights. Tech: Python · Pandas · NumPy · Scikit-learn
 
-🎬 Movie Sentiment Analysis (RNN/LSTM)
-
-Deep Learning project using an LSTM-based neural network to classify movie review sentiment as Positive/Negative, deployed via Streamlit. Accuracy: ~86% Tech: Python · TensorFlow · Keras · LSTM · NLP · Streamlit · Scikit-learn
-
-🤖 BizAI — AI Assistant for Small Businesses
-
-Business analytics application offering revenue analysis, sales forecasting, inventory monitoring, product performance, and AI-powered insights for small businesses. Tech: Python · Pandas · Scikit-learn · Groq · Streamlit
-
-💳 Loan Risk Prediction
-
-ML application analyzing loan-related data to predict risk, with a deployment-ready web-based prediction interface. Tech: Python · Scikit-learn · Pandas · Flask
-
 🧠 Currently Learning
 
 Advanced Machine Learning · Deep Learning · Computer Vision · NLP · ML Engineering · AI Model Deployment · Production AI · MLOps · APIs & Backend Development
