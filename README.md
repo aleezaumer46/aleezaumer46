@@ -199,8 +199,8 @@ I am particularly interested in developing intelligent systems that combine:
 If you're interested in **AI, Machine Learning, Computer Vision, or collaborative projects**, feel free to connect with me.
 
 * 💻 GitHub: [@aleezaumer46](https://github.com/aleezaumer46)
-* 🔗 LinkedIn: Add your LinkedIn profile here
-* 📧 Email: Add your professional email here
+* 🔗 LinkedIn: [Aleeza Umer](https://www.linkedin.com/in/aleeza-umer/)
+* 📧 Email: [umeraleeza358@gmail.com](mailto:umeraleeza358@gmail.com)
 
 ---
 
