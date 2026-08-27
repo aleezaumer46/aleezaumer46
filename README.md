@@ -1,259 +1,81 @@
-# 👋 Hi, I'm Aleeza Umer
+<h1 align="center">Hi 👋, I'm Aleeza Umer</h1> <h3 align="center">BSAI Student | AI & Machine Learning Enthusiast | Python Developer</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+with+AI+%26+ML;Computer+Vision+%7C+Deep+Learning+%7C+Python;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/aleeza-umer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:umeraleeza358@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/AleezaUmer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+🚀 About Me
+🎓 Bachelor of Science in Artificial Intelligence (BSAI) student
+🤖 Passionate about Artificial Intelligence & Machine Learning
+🧠 Learning Machine Learning Engineering and Deep Learning
+👁️ Interested in Computer Vision & Object Detection
+🐍 Python Developer
+🌐 Building AI applications with Streamlit
+⚙️ Exploring APIs, deployment, and production AI
+📊 Interested in data-driven problem solving
+🚀 Working toward becoming an AI / Machine Learning Engineer
+🛠️ Technical Skills
 
-### 🤖 BSAI Student | AI & Machine Learning Enthusiast | Python Developer
+Programming
 
-Welcome to my GitHub profile! 👋
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </p>
 
-I am a **Bachelor of Science in Artificial Intelligence (BSAI)** student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Python**.
+Artificial Intelligence & Machine Learning
 
-I enjoy turning real-world problems into intelligent applications and continuously improving my skills through hands-on projects, experimentation, and deployment.
+<p> <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Deep%20Learning-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat-square"/> <img src="https://img.shields.io/badge/Object%20Detection-purple?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-red?style=flat-square"/> <img src="https://img.shields.io/badge/Predictive%20Modeling-yellow?style=flat-square"/> </p>
 
----
+Frameworks & Libraries
 
-## 🚀 About Me
+<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-Ultralytics-black?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square"/> </p>
 
-* 🎓 BSAI Student
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
-* 🧠 Learning Machine Learning Engineering and Deep Learning
-* 👁️ Interested in Computer Vision & Object Detection
-* 🐍 Python Developer
-* 🌐 Building AI applications with Streamlit
-* ⚙️ Exploring APIs, deployment and production AI
-* 📊 Interested in data-driven problem solving
-* 🚀 Working toward becoming an **AI / Machine Learning Engineer**
+Development & Deployment
 
----
+<p> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> </p>
+⭐ Featured Projects
+🛣️ Road Damage Detection System
 
-## 🛠️ Technical Skills
+AI-powered Computer Vision application that detects road damage from images using a trained YOLO object detection model — with bounding boxes, confidence scores, severity estimation, and maintenance recommendations via an interactive Streamlit interface.
 
-### 👩‍💻 Programming
+Class	Damage Type
+D00	Longitudinal Crack
+D10	Transverse Crack
+D20	Alligator Crack
+D40	Pothole
+D43	Repair
 
-* Python
+Tech: Python · YOLO (Ultralytics) · OpenCV · Streamlit · NumPy · Pillow 🌐 Live Demo
 
-### 🤖 Artificial Intelligence & Machine Learning
+📊 Customer Churn Prediction
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Object Detection
-* Predictive Modeling
-* Natural Language Processing
-* Model Evaluation
+ML project predicting customer churn using data preprocessing, EDA, feature engineering, and model evaluation to generate data-driven business insights. Tech: Python · Pandas · NumPy · Scikit-learn
 
-### 🧰 Frameworks & Libraries
+🎬 Movie Sentiment Analysis (RNN/LSTM)
 
-* TensorFlow
-* PyTorch
-* Scikit-learn
-* Ultralytics YOLO
-* OpenCV
-* Pandas
-* NumPy
-* Pillow
+Deep Learning project using an LSTM-based neural network to classify movie review sentiment as Positive/Negative, deployed via Streamlit. Accuracy: ~86% Tech: Python · TensorFlow · Keras · LSTM · NLP · Streamlit · Scikit-learn
 
-### 🌐 Development & Deployment
+🤖 BizAI — AI Assistant for Small Businesses
 
-* Streamlit
-* FastAPI
-* REST APIs
-* Git
-* GitHub
-* Docker
-* Railway
+Business analytics application offering revenue analysis, sales forecasting, inventory monitoring, product performance, and AI-powered insights for small businesses. Tech: Python · Pandas · Scikit-learn · Groq · Streamlit
 
----
+💳 Loan Risk Prediction
 
-# ⭐ Featured Projects
+ML application analyzing loan-related data to predict risk, with a deployment-ready web-based prediction interface. Tech: Python · Scikit-learn · Pandas · Flask
 
-## 🛣️ Road Damage Detection System
+🧠 Currently Learning
 
-An AI-powered **Computer Vision application** that detects different types of road damage from images using a trained **YOLO object detection model**.
+Advanced Machine Learning · Deep Learning · Computer Vision · NLP · ML Engineering · AI Model Deployment · Production AI · MLOps · APIs & Backend Development
 
-### ✨ Features
+🎯 Career Interests
 
-* 📷 Upload road images
-* 🔍 Detect road damage automatically
-* 🎯 Display bounding boxes
-* 📊 Show confidence scores
-* ⚠️ Estimate damage severity
-* 🛠️ Provide maintenance recommendations
-* 🌐 Interactive Streamlit interface
+Artificial Intelligence · Machine Learning · Computer Vision · Data Science · Python Development · ML Engineering · Deep Learning · Generative AI
 
-### 🧠 Damage Classes
+📈 Goals
 
-| Class | Damage Type        |
-| ----- | ------------------ |
-| D00   | Longitudinal Crack |
-| D10   | Transverse Crack   |
-| D20   | Alligator Crack    |
-| D40   | Pothole            |
-| D43   | Repair             |
+My long-term goal is to become a professional AI / Machine Learning Engineer, combining Data + Machine Learning + Deep Learning + Software Development + Deployment to build reliable, real-world AI applications.
 
-### 🔧 Technologies
+💻 Development Philosophy: Learn → Build → Test → Deploy → Improve 🚀
 
-`Python` `YOLO` `Ultralytics` `OpenCV` `Streamlit` `NumPy` `Pillow`
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleezaUmer&show_icons=true&theme=default&count_private=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AleezaUmer&theme=default" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleezaUmer&layout=compact&theme=default" /> </p>
+🤝 Let's Connect
 
-🔗 **Repository:**
-https://github.com/AleezaUmer/Road-Damage-Detection
+I'm always interested in connecting with people passionate about AI, Machine Learning, Computer Vision, Data Science, and technology.
 
-🌐 **Live Demo:**
-https://road-damage-detection-production-84ce.up.railway.app/
+📧 umeraleeza358@gmail.com  |  🔗 LinkedIn  |  💻 GitHub
 
----
-
-## 📊 Customer Churn Prediction
-
-A Machine Learning project that predicts whether a customer is likely to **leave a service** based on customer-related information.
-
-### ✨ Project Highlights
-
-* Data preprocessing
-* Exploratory Data Analysis
-* Feature preparation
-* Machine Learning model training
-* Model evaluation
-* Customer churn prediction
-* Data-driven business insights
-
-### 🔧 Technologies
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
-
-🔗 **Repository:**
-https://github.com/AleezaUmer/Customer-Churn-Prediction
-
----
-
-## 🎬 Movie Sentiment Analysis
-
-A Deep Learning project that analyzes movie reviews and predicts whether the sentiment is **Positive or Negative**.
-
-The project uses an **LSTM-based neural network** trained on movie review data.
-
-### ✨ Features
-
-* 📝 Text input for movie reviews
-* 🧠 LSTM-based sentiment classification
-* 📊 Positive/Negative prediction
-* 🌐 Interactive Streamlit application
-* 📈 Model evaluation
-
-### 📌 Model Performance
-
-**Accuracy: ~86%**
-
-### 🔧 Technologies
-
-`Python` `TensorFlow` `Keras` `LSTM` `NLP` `Streamlit` `Scikit-learn`
-
-🔗 **GitHub:**
-https://github.com/AleezaUmer/Movie-Sentiment-Analysis-RNN
-
----
-
-## 🤖 BizAI — AI Assistant for Small Businesses
-
-**BizAI** is an AI-powered business analytics application designed to help small businesses understand their sales, products, customers, inventory, and overall performance.
-
-### ✨ Features
-
-* 💰 Revenue analysis
-* 📈 Sales trend visualization
-* 🔮 Sales forecasting
-* 📦 Inventory monitoring
-* 🛍️ Product performance analysis
-* 🌍 Regional revenue analysis
-* 📊 Business analytics dashboard
-* 🤖 AI-powered business insights
-
-### 🔧 Technologies
-
-`Python` `Pandas` `Scikit-learn` `Groq` `Streamlit` `Machine Learning`
-
----
-
-## 💳 Loan Risk Prediction
-
-A Machine Learning application designed to analyze loan-related information and predict potential loan risk.
-
-### ✨ Features
-
-* Data preprocessing
-* Feature analysis
-* Risk prediction
-* Machine Learning model
-* Web-based prediction interface
-* Deployment-ready application
-
-### 🔧 Technologies
-
-`Python` `Scikit-learn` `Pandas` `Flask` `Machine Learning`
-
----
-
-# 🧠 What I'm Currently Learning
-
-* 🤖 Advanced Machine Learning
-* 🧬 Deep Learning
-* 👁️ Computer Vision
-* 🗣️ Natural Language Processing
-* ⚙️ Machine Learning Engineering
-* 🌐 AI Model Deployment
-* 🚀 Production AI
-* 📦 MLOps
-* 🔗 APIs & Backend Development
-
----
-
-# 🎯 Career Interests
-
-I am interested in opportunities related to:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 👁️ Computer Vision
-* 📊 Data Science
-* 🐍 Python Development
-* ⚙️ Machine Learning Engineering
-* 🧬 Deep Learning
-* 🚀 Generative AI
-
----
-
-# 📈 My Goals
-
-My long-term goal is to become a professional **AI / Machine Learning Engineer** and build intelligent systems that solve real-world problems.
-
-I want to continuously improve my ability to combine:
-
-**Data + Machine Learning + Deep Learning + Software Development + Deployment**
-
-to create reliable and useful AI applications.
-
----
-
-# 💻 Development Philosophy
-
-> **Learn → Build → Test → Deploy → Improve 🚀**
-
-I believe the best way to learn Artificial Intelligence is by building real projects and solving practical problems.
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with people who are passionate about **AI, Machine Learning, Computer Vision, Data Science, and technology**.
-
-* 💻 **GitHub:** https://github.com/AleezaUmer
-* 🔗 **LinkedIn:** https://www.linkedin.com/in/aleeza-umer/
-* 📧 **Email:** [umeraleeza358@gmail.com](mailto:umeraleeza358@gmail.com)
-
----
-
-# ⭐ Thank You for Visiting!
-
-Thanks for stopping by my GitHub profile! 🚀
-
-Feel free to explore my repositories, check out my projects, and follow my journey as I continue learning and building in **Artificial Intelligence & Machine Learning**.
-
-### 🚀 Keep Learning. Keep Building. Keep Innovating.
+<p align="center">⭐ Thanks for visiting! Keep Learning. Keep Building. Keep Innovating. 🚀</p>
